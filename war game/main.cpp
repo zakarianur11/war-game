@@ -32,7 +32,7 @@ int main()
 	std::string text17 = "you now have the opportunity to take out the general\n, your going up the stairs, you have now come face to face with the man who called for your torture\n to shoot him inbetween the eyes, enter 17\n ";
 	std::string text18 = "the general is dead\n you now have to escape the base\n enter 18 to break one soldiers neck and use his body as sheild from fire\n";
 	std::string text19 = "well done... john wick style\n the next task is to make way to the gun inventory\n enter 19 to arm yourself with grenades and a AR15\n";
-	std::string text20 = "there are 2 loan soldiers on a golf buggy heading way to the base, enter 20S to lob a grenade and take out the opposition\n";
+	std::string text20 = "there are 2 loan soldiers on a golf buggy heading way to the base, enter 20 to lob a grenade and take out the opposition\n";
 
 	
 	int input = 0;
